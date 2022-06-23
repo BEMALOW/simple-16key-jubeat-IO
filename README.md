@@ -17,7 +17,8 @@ An jubeat io board for official button PCB which use PH2.0 connector.
 ![Finished Board](https://raw.githubusercontent.com/happyvalley-lmx/simple-16key-jubeat-IO/main/Pictures/Finished_board.jpg)
 
 ## Firmware
-Based on Pro Micro
+Based on Pro Micro.
+
 When connect i/o board to jubeat arcade button board, connect each side to corresponding side i/o board connector using ph2.0 double head reverse connector.
 ### Default Key Binding
 |||||
@@ -29,4 +30,5 @@ When connect i/o board to jubeat arcade button board, connect each side to corre
 
 ### Contributors:
 [NicoHood/HID](https://github.com/NicoHood/HID)
+
 [mon/Arduino-USB-Rename](https://github.com/mon/Arduino-USB-Rename)
