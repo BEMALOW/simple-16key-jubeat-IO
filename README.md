@@ -20,11 +20,13 @@ An jubeat io board for official button PCB which use PH2.0 connector.
 Based on Pro Micro
 When connect i/o board to jubeat arcade button board, connect each side to corresponding side i/o board connector using ph2.0 double head reverse connector.
 ### Default Key Binding
+|||||
+|--|--|--|--|
 |1|2|3|4|
 |q|w|e|r|
 |a|s|d|f|
 |z|x|c|v|
 
-###Contributors:
+### Contributors:
 [NicoHood/HID](https://github.com/NicoHood/HID)
 [mon/Arduino-USB-Rename](https://github.com/mon/Arduino-USB-Rename)
